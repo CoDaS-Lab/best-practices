@@ -29,11 +29,11 @@ Tool to integrate  writing professional papers with R code.
 
 __LaTeX__: [ShareLaTeX](https://www.sharelatex.com)
 * Creating Projects on sharelatex
-  1. Get Pat's login credentials.
-  2. Create the project from Pat Shafto's account
-      * This is important so many people can work on the same document for free.
-  2. _Then_, give yourself and collaborators access from Pat's account
-  3. After people leave the lab, remove their privileges.
+  1. Get the laboratory's log in credentials.
+  2. Create the project from LABORATORY's account
+      * This is important so many people can work on the same document.
+  2. _Then_, give yourself and collaborators access from the lab's account
+  3. When people leave the lab, remove their privileges.
 
 * Style: use 2 space tabs.
 
